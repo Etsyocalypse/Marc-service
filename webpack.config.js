@@ -1,25 +1,18 @@
-var webpack = require('webpack')
-
 module.exports = {
-  entry: './app/index.js',
-  output: {
-    path: __dirname + '/public',
-    publicPath: 'http://localhost:8081/public/',
-    filename: 'bundle.js',
-    libraryTarget: 'amd'
-  },
-  module: {
-    loaders: [
-      {
-        test: /\.js$/,
-        exclude: /node_modules/,
-        loader: 'babel-loader'
-      },
-    ]
-  },
-  externals: {
-    'react': 'react',
-    'react-dom': 'react-dom',
-    'prop-types': 'prop-types'
-  }
-}
+    entry: './client/index.js',
+    module: {
+        rules: [
+            {
+                test: /\.(js|jsx)$/,
+                exclude: /node_modules/,
+                use: {
+                    loader: "babel-loader"
+                }
+            }
+        ]
+    },
+    output: {
+        filename: 'bundle.js',
+        path: __dirname + '/public'
+    }
+};
