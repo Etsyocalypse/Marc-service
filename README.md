@@ -96,6 +96,7 @@ The following are each of the components done by individual team members
 
   <h3>Related Items</h3>
      <p> View this component's repo here</p>
+     [Related Items].(https://github.com/Etsyocalypse/Related_Items)
 
    <img src="https://lh3.googleusercontent.com/u7A0llrsIRDigZ9GSllNt0otET7E0U4_4hqNiFuWigrTCUN_rbIEKMi3nxOERM0cSZkk1y1_TLa0L_Ye8W1U33PvvDf9vz_HtDTcP8BM7D7P6TSkIk9-LgUosiUTy-VNUZ6MP0uqmyQeb1xucO3mDTvZtSmHizQWixuoDVTOW7KtQa5XauqYYOKKJR5V3ADXFqLFo-dsZHIMVGpZ0blJnu2FXGLL1bvE3czalCojACTS9SnkKhTvZxcmzIuobG7f5gXlwUoJfnoogR45av3HXWo17MNmZO9J2xhvL9iyO08mkuKKEoImFfkrgjoAWa4tivLI7Xpi0vU4-setyaSbdcPV1E6LQhdAn14oF6Sfw-gIdyKuc-rZ_3KnobjR3KH223c1d7_q9P0dATspcAu1zSts1h1ARCPzMh_CzEwOFJR5s1LDrw-cMnwQ1CYzVz02O7nuSrF7KUEl5IDMuNz4w2fIqaC0e3EDBKdR9NDVRg-pjaXQx0tRNcwRz89nxfSOKc6tQf5k7WyhwC2zOSteZeziW7NMktOsmsr-DesVrF3zBdhJSrnETZ1XHIHNf_b1kGv8FYrUzFtsJdr4C2Nd-P6XJV9qnuiIuZkiDpS3KBTvJHng0SiK7SxmHv4-h7NweUmHqh5XMNa6nx8crSCYl4x35tUBOkmx7oN_QpT8iMIxaxfucj6CKM2ivqHje8D4H9C4-0oY5ltJ8ISplNVtUPb0X7Y054kWyioUJtBhXubxY9bHY1jI8-Y=w1256-h1049-no" height=400>
   
